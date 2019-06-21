@@ -1,0 +1,29 @@
+page-home {
+
+    .page{
+        background-image: url(../../assets/imgs/img.jpg);
+        margin: auto;
+        background-size: cover;
+        height: 100%;
+    }
+    .main{
+        margin: auto;
+        text-align: center;
+        background-color: #ecb9aa;
+        width: 80%;
+        height: 5%;
+    }
+   .message{
+       margin: auto;
+   }
+   .img{
+       height: 150px;
+       width: 150px;
+
+   }
+   .image{
+       height: 150px;
+       width: 150px;
+       background-color: transparent;
+   }
+}
